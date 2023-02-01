@@ -1,1 +1,1 @@
-'''Simple calculator with TDD'''
+'''Simple calculator with Tests'''
